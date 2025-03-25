@@ -1,12 +1,4 @@
 ## Welcome to the UKRI Digital Research Skills Catalyst on Github 👋
 
-<!--
+The UKRI Digital Research Skills Catalyst connects researchers and innovators from a range of disciplines to varied training materials through the provision of a dynamic learning portal. The portal will provide a sophisticated and dynamic search function to enable researchers to easily locate training resources appropriate to their level of expertise, research theme and preferred study mode. The portal will also feature an online support service capable of assisting a wide range of researchers with their project specific enquiries.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
