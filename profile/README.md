@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the UKRI Digital Research Skills Catalyst on Github 👋
 
 <!--
 
