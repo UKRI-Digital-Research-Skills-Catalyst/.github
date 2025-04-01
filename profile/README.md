@@ -18,4 +18,15 @@ In 2021 the UKRI funded DaSH (Data Science in Healthcare & Biosciences) projects
 | [Cloud-SPAN](https://cloud-span.york.ac.uk/) | Cloud High-Performance Computing for Environmental ‘omics | University of York and Software, Sustainability Institute | Emma Rand, James Chong 
 | [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) | Data science training for bioscience and health | University of Edinburgh | Giacomo Peru| 
 
+## Project goals 
+
+The Digital Skills Catalyst Portal will empower researchers with the following features:
+
+- Streamlined access to all the courses provided by the above DaSH projects
+- Detailed pre-requisites and outcomes for courses and materials to help assess learning requirements
+- Bookable time slots for one-to-one bespoke guidance with a Digital Research Infrastructure specialist from one of the DaSH projects
+- Additional accreditation for new and existing courses to cater for Continuing Professional Development needs
+- Occasional in-person workshops and networking events to help address ever evolving training needs
+
+
 This project is funded by UKRI from October 2024 to March 2027. 
