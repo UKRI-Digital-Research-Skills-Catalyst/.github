@@ -33,6 +33,7 @@ The Digital Skills Catalyst Portal will empower researchers with the following f
 Follow us! 
 
 Bluesky:	[@UKRIskillscatalyst.bsky.social](https://bsky.app/profile/ukriskillscatalyst.bsky.social)
+
 LinkedIn: [https://www.linkedin.com/company/ukri-digital-research-skills-catalyst/](https://www.linkedin.com/company/ukri-digital-research-skills-catalyst/)
 
 This project is funded by UKRI from October 2024 to March 2027. 
