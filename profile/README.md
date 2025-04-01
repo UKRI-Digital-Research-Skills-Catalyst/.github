@@ -2,3 +2,10 @@
 
 The UKRI Digital Research Skills Catalyst connects researchers and innovators from a range of disciplines to varied training materials through the provision of a dynamic learning portal. The portal will provide a sophisticated and dynamic search function to enable researchers to easily locate training resources appropriate to their level of expertise, research theme and preferred study mode. The portal will also feature an online support service capable of assisting a wide range of researchers with their project specific enquiries.
 
+## Our modules
+
+| Project                    | Research theme |   
+| -------------------------- | ---------|
+| [Health and Bioscience IDEAS](https://healthbioscienceideas.github.io/)| Medical image acquisition, analysis, management |
+
+This project is funded by UKRI from October 2024 to March 2027. 
